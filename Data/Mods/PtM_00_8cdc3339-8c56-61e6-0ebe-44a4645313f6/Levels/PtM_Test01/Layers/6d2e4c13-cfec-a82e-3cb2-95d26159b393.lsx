@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="6d2e4c13-cfec-a82e-3cb2-95d26159b393"/>
+            <attribute id="LayerColor" type="int32" value="0"/>
+            <attribute id="Name" type="LSString" value="Tavern_Roof"/>
+        </node>
+    </region>
+</save>

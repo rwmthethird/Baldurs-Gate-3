@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="1b52da74-85e7-22e0-a9ca-18dfd3d89c40"/>
+            <attribute id="LayerColor" type="int32" value="0"/>
+            <attribute id="Name" type="LSString" value="Tavern_Decals"/>
+        </node>
+    </region>
+</save>
